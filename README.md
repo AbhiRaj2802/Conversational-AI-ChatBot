@@ -1,6 +1,6 @@
 # Conversational AI ChatBot 🤖
 
-This is a simple conversational AI chatbot built using **LangChain** and **Google Generative AI (Gemini)**.  
+This is a  conversational AI chatbot built using **LangChain** and **Google Generative AI (Gemini)** named **Mr.Fxit**.  
 It maintains chat history and responds in a human-like conversational manner.
 
 ---
